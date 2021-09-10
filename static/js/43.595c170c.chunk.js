@@ -1,0 +1,2 @@
+(this["webpackJsonptogedoor-frontend"]=this["webpackJsonptogedoor-frontend"]||[]).push([[43],{684:function(e,t,r){"use strict";r.r(t);r(0);var s=r(435),c=r(436),n=r(244),a=r.p+"static/media/error.d9f4e942.png",o=r(1);t.default=function(){return Object(o.jsx)(s.a,{className:"pt-5",children:Object(o.jsx)(c.a,{children:Object(o.jsx)(n.a,{children:Object(o.jsx)("img",{className:"img-fluid",src:a,alt:"error"})})})})}}}]);
+//# sourceMappingURL=43.595c170c.chunk.js.map
